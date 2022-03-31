@@ -22,7 +22,8 @@ npm i
 
 
 ## Run
-
+Add a ***input.txt*** file to the folder and copy your input to that file.<br>
+Afterwards start the program with
 ```
 npm start day<N>
 ```
